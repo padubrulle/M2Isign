@@ -2,7 +2,7 @@
 
 Outil permettant de signer automatiquement sur M2iformation
 
-Créer des fichier batch comme suit : 
+Créer des fichiers batch comme suit : 
 
 @echo off
 set USERNAME="email"
